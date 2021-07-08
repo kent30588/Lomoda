@@ -7,3 +7,6 @@ headerCityButton.addEventListener('click', () => {
     headerCityButton.textContent = city;
     localStorage.setItem('lomoda-location', city);
 });
+
+
+// Модальное окно
